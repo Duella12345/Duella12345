@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Belinda Armstrong</h1>
-A passionate data scientist from the UK. In my current role I am a Software Engineer working with Java, Spring, Kafka, Neo4j, Docker and K8s to name a few things. I graduated from the Open University with a Bachelors of Science in Mathematics and have worked on a number of data science projects as I rotated around BT on the Graduate Scheme. I enjoy problem solving and have a passion for data science and artificial intelligence. I am continually working to learn more in these areas. I have an analytical mindset and a sound mathematical and statistical knowledge gained from my mathematics degree. I have experience of gathering, analysing, and presenting data to managers and working with and presenting data as part of my degree.
+A passionate Software Engineer from the UK. In this role have worked with Java, Spring, Kafka, Neo4j, Docker and K8s to name a few things. I graduated from the Open University with a Bachelors of Science in Mathematics and have worked on a number of data science and software projects as I rotated around BT on the Graduate Scheme, as a Software Engineer and on various courses including the Udacity Data Scientist course. I enjoy problem solving and have a passion for data science and artificial intelligence. I am continually working to learn more in these areas. I have an analytical mindset and a sound mathematical and statistical knowledge gained from my mathematics degree. I have experience of gathering, analysing, and presenting data to managers and working with and presenting data as part of my degree.
 
-- 🔭 I’m currently working on **building up my Github profile with data science projects**
+- 🔭 I’m currently working on **building up my Github profile with data science and software projects**
 
-- 🌱 I’m currently learning **about Natural Language Processing (NLP) and Recommender Systems**
+- 🌱 I’m currently learning **about Testing and ISTBQ Foundation Certificate and Hacktober**
 
-- 👯 I’m looking to collaborate on **any of the presented data science projects and am open to other projects**
+- 👯 I’m looking to collaborate on **any of the presented projects and am open to other projects**
 
 - 🤝 I’m looking for help with **creative data visualisations to be displayed on a website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Duella12345](https://github.com/Duella12345)
 
-- 💬 Ask me about **anything data science related!**
+- 💬 Ask me about **anything data science or software related!**
 
 - 📫 How to reach me **connect on LinkedIn**
 
