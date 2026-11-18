@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Belinda Armstrong</h1>
-A passionate Software Engineer from the UK. In this role have worked with Java, Spring, Kafka, Neo4j, Docker and K8s to name a few things. I graduated from the Open University with a Bachelors of Science in Mathematics and have worked on a number of data science and software projects as I rotated around BT on the Graduate Scheme, as a Software Engineer and on various courses including the Udacity Data Scientist course. I enjoy problem solving and have a passion for data science and artificial intelligence. I am continually working to learn more in these areas. I have an analytical mindset and a sound mathematical and statistical knowledge gained from my mathematics degree. I have experience of gathering, analysing, and presenting data to managers and working with and presenting data as part of my degree.
+<h1 align="center">Belinda Armstrong</h1>
+<h3> Software Engineer | Full-Stack Development | Java, Python, JavaScript, TypeScript, Kotlin & React </h3>
 
-- 🔭 I’m currently working on **building up my Github profile with data science and software projects**
+Software Engineer with 7+ years of professional experience developing and integrating software systems across infrastructure, telecommunications and logistics environments. Experienced in backend and full-stack development, distributed systems, data processing and database technologies.
 
-- 🌱 I’m currently learning **about Testing and ISTBQ Foundation Certificate and Hacktober**
-
-- 👯 I’m looking to collaborate on **any of the presented projects and am open to other projects**
-
-- 🤝 I’m looking for help with **creative data visualisations to be displayed on a website**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Duella12345](https://github.com/Duella12345)
+Strong background in Java, Spring Boot, Kotlin and Python, with experience building REST APIs, event-driven microservices and data-driven applications. Interested in developing reliable, maintainable software solutions that solve complex business problems.
 
 - 💬 Ask me about **anything data science or software related!**
 
